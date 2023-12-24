@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AgriForcast</string>
+    <string name="Team">Team 5</string>
+    <string name="next">Selanjutnya</string>
+    <string name="deliv">ANTAR</string>
+    <string name="accept">TERIMA</string>
+    <string name="finish">Selesai</string>
+    <string name="namaapk">AgriForecast</string>
+    <string name="start">Mulai</string>
+    <string name="pulau">Sumatra</string>
+    <string name="Judulhalut">Produksi padi di Sumatra</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
